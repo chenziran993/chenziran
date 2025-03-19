@@ -1,0 +1,201 @@
+jobTitle,gender,age,perfEval,edu,dept,seniority,basePay,bonus
+Sales Associate,Male,24,1,PhD,Operations,2,51837,4472
+Graphic Designer,Male,56,2,Masters,Management,4,114048,5097
+Manager,Female,59,2,High School,Management,2,136215,3603
+Marketing Associate,Female,55,3,High School,Administration,1,63327,4066
+Software Engineer,Male,64,2,PhD,Engineering,4,139068,4126
+Sales Associate,Male,63,2,Masters,Engineering,3,136209,3910
+Software Engineer,Male,55,2,PhD,Management,3,121910,4494
+Graphic Designer,Male,43,2,PhD,Management,2,82057,5268
+Sales Associate,Male,51,2,High School,Engineering,1,96023,4148
+Marketing Associate,Female,31,1,High School,Sales,3,52578,5538
+Driver,Female,61,2,College,Administration,4,114436,4249
+Marketing Associate,Female,56,2,Masters,Sales,4,99543,4442
+Sales Associate,Female,41,2,College,Sales,1,60983,5022
+Software Engineer,Male,49,3,Masters,Administration,1,82277,5460
+Marketing Associate,Female,23,1,College,Sales,2,55885,3795
+Graphic Designer,Male,29,1,Masters,Operations,3,73142,4712
+Graphic Designer,Male,53,2,High School,Operations,4,107065,3652
+Driver,Female,61,2,PhD,Engineering,2,107064,4202
+Marketing Associate,Female,56,2,High School,Operations,5,107370,4916
+Marketing Associate,Female,25,1,High School,Sales,1,39741,4981
+Sales Associate,Male,64,2,High School,Management,3,120579,4687
+Driver,Female,55,2,High School,Engineering,3,103242,4495
+Driver,Female,42,1,Masters,Sales,5,120112,5070
+Sales Associate,Female,61,2,High School,Sales,2,83308,3653
+Marketing Associate,Female,26,1,High School,Management,1,36585,4373
+Graphic Designer,Female,59,2,College,Engineering,4,115344,4827
+Sales Associate,Male,36,2,High School,Management,1,49553,5784
+IT,Female,54,2,Masters,Administration,3,96982,4750
+Financial Analyst,Female,24,1,High School,Management,4,80030,5481
+Driver,Male,58,2,College,Sales,4,110157,4275
+Financial Analyst,Female,32,1,High School,Administration,4,84047,4683
+Marketing Associate,Male,47,2,PhD,Sales,3,93054,4243
+Data Scientist,Female,53,2,Masters,Engineering,2,84764,4409
+Warehouse Associate,Female,61,1,Masters,Management,3,120277,4617
+Marketing Associate,Female,56,2,High School,Sales,3,81661,4965
+Manager,Female,45,1,High School,Engineering,5,149893,5120
+Software Engineer,Male,45,2,High School,Management,1,81515,5001
+Driver,Male,55,2,Masters,Operations,3,95898,4309
+Warehouse Associate,Male,42,2,PhD,Operations,3,90000,4774
+Manager,Male,60,3,High School,Management,2,111896,5597
+Driver,Male,53,1,Masters,Engineering,5,130082,4734
+Sales Associate,Female,60,2,PhD,Engineering,5,130417,4694
+Marketing Associate,Female,34,1,College,Engineering,2,38855,4503
+Software Engineer,Male,25,1,High School,Administration,4,81057,5259
+Data Scientist,Male,41,1,High School,Management,5,117215,4322
+Graphic Designer,Female,49,1,High School,Administration,4,96232,3697
+Financial Analyst,Male,64,1,PhD,Operations,5,141186,3415
+Manager,Male,52,2,High School,Operations,2,114943,3438
+Data Scientist,Male,43,1,PhD,Administration,4,107640,3896
+Manager,Male,31,2,College,Operations,1,80259,4791
+Marketing Associate,Female,48,1,College,Operations,5,86563,4415
+Data Scientist,Male,20,1,High School,Operations,2,61589,3990
+Warehouse Associate,Male,35,1,High School,Administration,2,74829,4263
+Graphic Designer,Female,44,1,Masters,Administration,2,72248,3634
+Sales Associate,Male,49,2,High School,Operations,3,91342,4516
+Sales Associate,Male,49,2,Masters,Operations,2,101140,4851
+Marketing Associate,Male,51,2,PhD,Sales,1,62600,4300
+Software Engineer,Male,21,1,High School,Engineering,2,65313,4685
+Manager,Male,41,1,College,Administration,5,123153,4111
+IT,Male,27,1,High School,Management,3,57500,3665
+Manager,Male,37,1,PhD,Administration,3,115604,4098
+Software Engineer,Male,18,1,High School,Sales,1,55555,4390
+Data Scientist,Male,58,1,PhD,Engineering,5,124166,3875
+IT,Male,50,2,Masters,Management,3,101050,3879
+Data Scientist,Female,56,1,College,Engineering,5,125828,3961
+Graphic Designer,Female,45,1,High School,Management,3,75017,5576
+Marketing Associate,Female,40,1,Masters,Engineering,4,100415,3871
+Manager,Female,57,1,Masters,Operations,3,145095,3889
+Data Scientist,Female,63,2,High School,Administration,5,115641,4339
+Software Engineer,Male,59,1,College,Sales,5,160460,2930
+Financial Analyst,Male,45,2,High School,Administration,2,85947,3909
+Financial Analyst,Female,48,1,College,Engineering,5,119058,4037
+Warehouse Associate,Female,56,1,College,Administration,4,106722,4044
+Financial Analyst,Female,41,2,PhD,Operations,3,91129,4825
+Graphic Designer,Male,59,1,PhD,Sales,4,135512,3955
+Financial Analyst,Female,49,2,College,Operations,1,92891,3578
+Financial Analyst,Male,64,3,High School,Administration,3,124151,3392
+Data Scientist,Female,58,1,High School,Sales,5,141005,3384
+Manager,Male,36,1,High School,Operations,2,115742,3661
+IT,Male,31,1,Masters,Sales,2,93358,3223
+IT,Female,44,1,High School,Sales,5,131411,3084
+Sales Associate,Female,61,2,College,Sales,1,96900,4157
+IT,Male,59,3,Masters,Sales,2,98995,4596
+IT,Male,57,3,High School,Sales,3,109645,5472
+Financial Analyst,Male,39,2,College,Sales,1,61609,3738
+Marketing Associate,Female,56,2,High School,Engineering,3,88820,4289
+Data Scientist,Male,61,1,Masters,Administration,5,122352,3590
+Marketing Associate,Female,53,1,Masters,Management,4,112489,4237
+Software Engineer,Male,29,1,High School,Sales,1,86650,3518
+Data Scientist,Male,62,3,High School,Operations,2,101284,4993
+Manager,Male,41,1,Masters,Sales,2,119794,3712
+Graphic Designer,Male,58,2,Masters,Operations,1,96609,3044
+Marketing Associate,Female,38,1,PhD,Engineering,1,53839,3270
+Financial Analyst,Male,29,1,Masters,Operations,2,84725,3274
+IT,Female,57,2,High School,Administration,1,64807,3887
+IT,Female,28,1,High School,Management,1,41151,4296
+Financial Analyst,Female,48,1,College,Administration,4,114031,4510
+Driver,Male,33,1,High School,Management,1,59493,3955
+Manager,Female,42,1,High School,Management,2,119893,3721
+Manager,Male,60,2,College,Sales,1,131980,3841
+Sales Associate,Female,52,1,High School,Sales,3,94154,3964
+Marketing Associate,Female,60,1,College,Management,4,114906,4766
+Driver,Female,63,1,Masters,Management,4,115981,2661
+Data Scientist,Male,37,1,PhD,Administration,2,78836,3588
+Driver,Male,64,2,Masters,Operations,2,112719,3382
+Marketing Associate,Female,59,1,Masters,Sales,3,93018,2730
+Marketing Associate,Female,55,2,College,Sales,2,69928,4811
+Software Engineer,Female,57,2,High School,Engineering,1,104623,3791
+Driver,Male,55,2,College,Administration,2,103328,4543
+Financial Analyst,Male,47,2,High School,Management,1,68643,4674
+Graphic Designer,Female,33,1,High School,Sales,1,63914,3521
+Sales Associate,Male,45,2,High School,Engineering,1,67296,4780
+Graphic Designer,Female,44,1,College,Sales,3,90474,3530
+Driver,Female,22,1,High School,Administration,1,60026,4605
+Marketing Associate,Female,41,1,PhD,Management,5,108587,4275
+Financial Analyst,Female,61,1,Masters,Engineering,4,139042,2982
+Driver,Male,65,1,High School,Operations,5,116803,3431
+Sales Associate,Female,57,1,Masters,Operations,3,101423,3641
+Software Engineer,Male,36,1,Masters,Operations,1,86375,3368
+IT,Male,31,1,College,Operations,1,49449,4149
+Marketing Associate,Female,56,2,High School,Sales,3,95995,4045
+Software Engineer,Male,51,1,College,Management,2,118282,3599
+IT,Female,47,1,PhD,Operations,3,99472,3943
+Manager,Female,55,1,High School,Administration,3,135638,2824
+IT,Male,50,1,College,Operations,3,85648,2728
+Data Scientist,Female,58,1,PhD,Management,4,121457,4723
+Data Scientist,Female,57,1,PhD,Operations,2,114141,3746
+Manager,Male,58,1,PhD,Management,4,179726,4284
+Marketing Associate,Female,64,1,College,Administration,5,107572,3107
+Sales Associate,Female,65,2,PhD,Sales,5,142505,4214
+Financial Analyst,Male,43,1,PhD,Sales,4,108719,4143
+IT,Male,36,1,High School,Sales,4,109832,3528
+Software Engineer,Male,60,1,PhD,Administration,4,127250,4263
+Sales Associate,Female,50,1,Masters,Sales,3,106279,3892
+Software Engineer,Male,37,1,High School,Sales,1,81547,3510
+Data Scientist,Male,56,1,Masters,Administration,2,95798,2530
+Manager,Female,47,1,High School,Management,3,106916,3959
+Manager,Male,59,2,PhD,Administration,1,124782,4618
+Warehouse Associate,Male,53,1,College,Operations,4,126256,3463
+IT,Female,59,1,PhD,Engineering,3,92257,3908
+Software Engineer,Male,62,1,High School,Sales,3,124660,2200
+IT,Female,32,2,High School,Engineering,1,59377,5236
+Marketing Associate,Female,38,1,PhD,Engineering,2,76726,4204
+IT,Female,54,1,High School,Engineering,5,112502,3988
+Data Scientist,Male,65,2,Masters,Sales,2,128730,3247
+Manager,Male,61,2,College,Sales,1,136836,4070
+IT,Male,51,1,High School,Engineering,3,89272,2600
+Financial Analyst,Female,62,1,High School,Operations,3,101515,2251
+Software Engineer,Male,36,1,Masters,Operations,1,93855,4099
+Graphic Designer,Male,30,1,College,Operations,2,36642,4388
+Sales Associate,Male,60,1,College,Operations,3,112604,3366
+Financial Analyst,Female,49,1,PhD,Engineering,1,67089,3078
+Driver,Female,51,1,PhD,Management,2,97789,3536
+Data Scientist,Male,62,1,PhD,Administration,3,123333,3353
+IT,Male,62,1,PhD,Management,2,105771,2978
+Marketing Associate,Female,46,1,College,Administration,1,54945,2991
+Data Scientist,Female,65,1,PhD,Operations,2,121239,3078
+Data Scientist,Female,64,2,High School,Sales,1,87314,3688
+Driver,Female,65,1,PhD,Operations,3,124530,3647
+Driver,Female,45,1,College,Sales,2,67150,3255
+Financial Analyst,Male,39,1,College,Engineering,4,99643,3789
+Sales Associate,Male,54,1,College,Administration,3,92468,3242
+Financial Analyst,Female,47,1,College,Operations,2,63300,3655
+IT,Male,55,2,Masters,Operations,1,91447,3196
+Marketing Associate,Female,58,2,High School,Operations,1,60271,3927
+Warehouse Associate,Male,34,1,Masters,Operations,1,45915,4765
+Marketing Associate,Female,53,1,Masters,Operations,1,66028,3745
+Sales Associate,Male,57,1,PhD,Administration,5,113031,3409
+Software Engineer,Male,62,1,High School,Sales,3,132815,3367
+Manager,Male,52,1,High School,Management,1,110078,1703
+Data Scientist,Male,57,1,Masters,Sales,3,106918,3180
+Software Engineer,Male,60,1,High School,Administration,3,106045,3079
+Warehouse Associate,Male,65,1,High School,Operations,2,107479,2051
+Software Engineer,Male,64,1,Masters,Sales,1,109606,2193
+Marketing Associate,Female,44,1,High School,Engineering,3,91300,3680
+Sales Associate,Male,56,1,High School,Management,1,88195,2375
+Financial Analyst,Female,54,1,Masters,Operations,2,90999,2963
+Sales Associate,Female,58,1,College,Operations,3,86795,3453
+IT,Female,59,1,College,Sales,3,110627,2041
+Marketing Associate,Female,52,1,PhD,Sales,3,97696,3888
+IT,Male,64,1,Masters,Sales,1,92950,2125
+Sales Associate,Male,56,1,High School,Operations,1,82164,2611
+Software Engineer,Male,62,1,High School,Management,3,119069,2788
+Marketing Associate,Female,59,1,College,Engineering,1,62738,2656
+IT,Female,53,1,High School,Administration,2,112169,2763
+Manager,Male,55,1,High School,Administration,1,120574,2683
+Data Scientist,Male,54,1,College,Sales,2,97311,3083
+Marketing Associate,Female,59,1,High School,Operations,3,98796,3042
+Sales Associate,Male,62,1,Masters,Administration,2,102593,1823
+Financial Analyst,Female,65,1,High School,Administration,2,96665,2645
+Graphic Designer,Female,61,1,Masters,Engineering,1,91030,3318
+IT,Female,65,1,Masters,Administration,1,106945,2041
+Graphic Designer,Female,63,1,College,Administration,2,81545,3418
+Marketing Associate,Female,65,1,Masters,Administration,1,80789,1884
+Marketing Associate,Female,64,1,PhD,Administration,2,85253,2777
+Marketing Associate,Female,61,1,High School,Administration,1,62644,3270
+Data Scientist,Male,57,1,Masters,Sales,2,108977,3567
+Financial Analyst,Male,48,1,High School,Operations,1,92347,2724
+Financial Analyst,Male,65,2,High School,Administration,1,97376,2225
+Financial Analyst,Male,60,1,PhD,Sales,2,123108,2244
